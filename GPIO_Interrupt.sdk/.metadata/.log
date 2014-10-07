@@ -1,0 +1,15 @@
+!SESSION 2014-09-10 10:19:12.822 -----------------------------------------------
+eclipse.buildId=2014.2
+java.version=1.7.0_40
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.sdk
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-10 10:20:09.905
+!MESSAGE Indexed 'GPIO_Interrupt' (2 sources, 25 headers) in 0.69 sec: 961 declarations; 1,291 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0.00%)
+
+!ENTRY org.eclipse.cdt.core 1 0 2014-09-10 10:20:12.166
+!MESSAGE Indexed 'GPIO_Interrupt_bsp' (136 sources, 147 headers) in 2.21 sec: 6,425 declarations; 30,602 references; 65 unresolved inclusions; 9 syntax errors; 38 unresolved names (0.10%)
+
+!ENTRY org.eclipse.core.jobs 2 2 2014-09-10 10:54:10.169
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: com.xilinx.sdk.hw.sync.HwPlatformMonitorUtils$1

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="Local" key="design_gpio_interrupt_wrapper_hw_platform_0-target"/>
+	<item value="design_gpio_interrupt_wrapper_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="design_gpio_interrupt_wrapper.bit" key="design_gpio_interrupt_wrapper_hw_platform_0-bitFile"/>
+	<item value="true" key="design_gpio_interrupt_wrapper_hw_platform_0-runResetZynq"/>
+	<item value="" key="design_gpio_interrupt_wrapper_hw_platform_0-bmmFile"/>
+</section>

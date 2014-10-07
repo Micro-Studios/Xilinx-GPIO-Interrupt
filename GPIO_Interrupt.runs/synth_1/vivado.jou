@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Wed Sep 10 10:14:45 2014
+# Process ID: 5948
+# Log file: C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.runs/synth_1/design_gpio_interrupt_wrapper.vds
+# Journal file: C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source design_gpio_interrupt_wrapper.tcl

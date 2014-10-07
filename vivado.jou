@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Tue Oct 07 11:24:40 2014
+# Process ID: 824
+# Log file: C:/Users/VRL/GPIO_Interrupt/vivado.log
+# Journal file: C:/Users/VRL/GPIO_Interrupt\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:\Users\VRL\GPIO_Interrupt\GPIO_Interrupt.xpr}
+open_bd_design {C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.srcs/sources_1/bd/design_gpio_interrupt/design_gpio_interrupt.bd}

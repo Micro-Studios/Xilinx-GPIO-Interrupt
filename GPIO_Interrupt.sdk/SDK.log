@@ -1,0 +1,6 @@
+10:19:16 INFO  : Processing command line option -hwspec C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.sdk/design_gpio_interrupt_wrapper.hdf.
+10:49:54 INFO  : FPGA configured successfully with bitstream "C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.sdk/design_gpio_interrupt_wrapper_hw_platform_0/design_gpio_interrupt_wrapper.bit"
+10:50:14 INFO  : ps7_init is completed.
+10:50:14 INFO  : ps7_post_config is completed.
+10:50:14 INFO  : Processor reset is completed for ps7_cortexa9_0
+10:54:08 ERROR : Unexpected error while parsing XMD response ?: com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: invalid number or unquoted string near 

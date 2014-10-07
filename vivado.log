@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2014.2 (64-bit)
+# SW Build 932637 on Wed Jun 11 13:33:10 MDT 2014
+# IP Build 924643 on Fri May 30 09:20:16 MDT 2014
+# Start of session at: Tue Oct 07 11:24:40 2014
+# Process ID: 824
+# Log file: C:/Users/VRL/GPIO_Interrupt/vivado.log
+# Journal file: C:/Users/VRL/GPIO_Interrupt\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:\Users\VRL\GPIO_Interrupt\GPIO_Interrupt.xpr}
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 20-1763] Vivado Synthesis ignores library specification for Verilog or SystemVerilog files. [C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.srcs/sources_1/bd/design_gpio_interrupt/hdl/design_gpio_interrupt_wrapper.v]
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2014.2/data/ip'.
+open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:24 . Memory (MB): peak = 915.348 ; gain = 83.445
+open_bd_design {C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.srcs/sources_1/bd/design_gpio_interrupt/design_gpio_interrupt.bd}
+Adding component instance block -- xilinx.com:ip:processing_system7:5.4 - processing_system7_0
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_0
+Adding component instance block -- xilinx.com:ip:axi_gpio:2.0 - axi_gpio_1
+Adding component instance block -- xilinx.com:ip:proc_sys_reset:5.0 - rst_processing_system7_0_50M
+Adding component instance block -- xilinx.com:ip:axi_crossbar:2.1 - xbar
+Adding component instance block -- xilinx.com:ip:axi_protocol_converter:2.1 - auto_pc
+Successfully read diagram <design_gpio_interrupt> from BD file <C:/Users/VRL/GPIO_Interrupt/GPIO_Interrupt.srcs/sources_1/bd/design_gpio_interrupt/design_gpio_interrupt.bd>
+open_bd_design: Time (s): cpu = 00:00:22 ; elapsed = 00:00:42 . Memory (MB): peak = 1143.078 ; gain = 223.863
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Oct 07 11:28:48 2014...
